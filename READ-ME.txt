@@ -1,0 +1,2 @@
+BlindsXpert Malaysia static website.
+Built with Bootstrap 5. See BLINDSXPERT_CONVERSION_REPORT.md for implementation notes.
